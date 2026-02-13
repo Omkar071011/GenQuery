@@ -42,18 +42,7 @@ _Overview of the RAG system for enhancing query responses with context._
 
 ## Demo
 
-You can explore the tool in action by following this demo:  
-![UI Screenshot]
-[![YouTube Video Demo]
-
-
 1. **Input:** Load URLs or text files for processing.
 2. **Process:** The tool fetches, segments, and generates embeddings using OpenAI models.
 3. **Retrieve:** FAISS handles similarity searches and returns accurate results.
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/GenQuery.git
